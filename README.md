@@ -1,6 +1,6 @@
 This is an example Node.js project used in Codeanywhere.
 
-[Try it out](https://app.codeanywhere.com/workspace#https://github.com/Codeanywhere-Templates/javascript-node)
+[Try it out](https://app.codeanywhere.com/workspace/create#https://github.com/Codeanywhere-Templates/javascript-node)
 
 ### Running the project
 
